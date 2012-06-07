@@ -1,7 +1,7 @@
 # Chess Stuffs
 
 This is my [CSC
-350](http://www.carthage.edu/computer-science/courses#CSC3050)
+3050](http://www.carthage.edu/computer-science/courses#CSC3050)
 (Object-Oriented Programming)  final project.
 
 The requirements were:
